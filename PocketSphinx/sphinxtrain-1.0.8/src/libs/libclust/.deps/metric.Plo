@@ -1,0 +1,15 @@
+metric.lo: metric.c /usr/include/stdc-predef.h \
+ ../../../include/s3/metric.h \
+ /home/syf/work/PocketSphinx/sphinxtrain-1.0.8/../sphinxbase-0.8/include/sphinxbase/prim_type.h \
+ /home/syf/work/PocketSphinx/sphinxtrain-1.0.8/../sphinxbase-0.8/include/sphinx_config.h \
+ ../../../include/s3/div.h
+
+/usr/include/stdc-predef.h:
+
+../../../include/s3/metric.h:
+
+/home/syf/work/PocketSphinx/sphinxtrain-1.0.8/../sphinxbase-0.8/include/sphinxbase/prim_type.h:
+
+/home/syf/work/PocketSphinx/sphinxtrain-1.0.8/../sphinxbase-0.8/include/sphinx_config.h:
+
+../../../include/s3/div.h:
